@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kévin</h1>
 <h3 align="center">A selfmade developer from France</h3>
 
-- 🔭 I’m currently working on **Django stuffs**
+- 🔭 I’m currently working/playing with **Python**
 
 - 🌱 I’m currently learning **Python, Data Manipulation, Machine Learning**
 
