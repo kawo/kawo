@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Kévin</h1>
 <h3 align="center">A selfmade developer from France</h3>
 
-- 🔭 I’m currently working on **cpp littles projects/forks**
+- 🔭 I’m currently working on **AI**
 
-- 🌱 I’m currently learning **C++**
+- 🌱 I’m currently learning **AI**
 
 - 👨‍💻 All of my projects are available at [https://github.com/kawo](https://github.com/kawo)
 
